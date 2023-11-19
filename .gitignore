@@ -18,3 +18,7 @@ Version.h
 Version.cpp
 unit-testing-using-mstest/PrimeService.Tests/obj/*
 unit-testing-using-mstest/PrimeService/obj/*
+TDD/template/templateEngine/obj/*
+TDD/template/templateEngine.test/bin/*
+TDD/template/templateEngine.test/obj/*
+TDD/template/templateEngine/bin/*
